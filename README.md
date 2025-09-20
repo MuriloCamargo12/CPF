@@ -20,8 +20,9 @@ O botão **Verificar** pode receber 9 ou 11 dígitos no input. Se forem 9 dígit
 
 No JavaScript foi implementado manipulação da página, validações e funções com a lógica de um CPF.
 
-Para Entender melhor sobre acesse [Lógica do CPF](https://blog.dbins.com.br/como-funciona-a-logica-da-validacao-do-cpf).
+Para entender melhor sobre a lógica de um CPF acesse [Lógica do CPF](https://blog.dbins.com.br/como-funciona-a-logica-da-validacao-do-cpf).
 
 ------
 <p align="center">Feito por Murilo :smiley:	</p>
+
 
