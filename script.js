@@ -38,7 +38,7 @@ function verificarDv(cpfNumero) {
 
 function verificarCpf(cpf) {
     if(cpf.length !== 9 && cpf.length !== 11) {
-        return alert("CPF Inválido. Digite no mínimo 9 números ou os 11 números do CPF.")
+        return alert("CPF Inválido. Digite no mínimo 9 números ou os 11 números do CPF sem pontuação.")
     }
     const todosIguais = cpf.every(v => v === cpf[0]);
 

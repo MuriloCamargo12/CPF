@@ -15,7 +15,7 @@ Outras alternativas pode utilizar a extensão *Live server* da IDE Visual Studio
 ## :gear: Como funciona o projeto
 No HTML e CSS haverá uma interface com um input e dois botões, o botão **Gerar** vai gerar um CPF Válido que irá aparecer dentro do input.
 
-O botão **Verificar** pode receber 9 ou 11 dígitos no input. Se forem 9 dígitos válidos, os 2 dígitos finais do CPF serão completados automaticamente. Se forem 11 dígitos, será exibido apenas se o CPF é válido ou inválido.”
+No botão **Verificar** dígite 9 ou 11 dígitos sem pontuação no input. Se forem 9 dígitos válidos, os 2 dígitos finais do CPF serão completados automaticamente. Se forem 11 dígitos, será exibido apenas se o CPF é válido ou inválido.”
 
 
 No JavaScript foi implementado manipulação da página, validações e funções com a lógica de um CPF.
